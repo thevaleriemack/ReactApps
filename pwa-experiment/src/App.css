@@ -1,0 +1,29 @@
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.plot {
+  margin: 0 auto;
+  text-align: center;
+}
+
+ul {
+  font-size: 10px;
+  list-style-type: none;
+}
+
+li {
+  padding: 0px 10px;
+  display: inline;
+}
+
+a, a:visited {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: black;
+}
+
+a:hover {
+  color: red;
+}
